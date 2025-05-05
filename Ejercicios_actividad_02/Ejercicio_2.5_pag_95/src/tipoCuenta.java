@@ -1,0 +1,2 @@
+
+enum tipoCuenta {AHORROS, CORRIENTE}

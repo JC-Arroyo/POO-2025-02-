@@ -1,0 +1,2 @@
+
+enum tipoPlaneta{GASEOSO,TERRESTRE,ENANO}
